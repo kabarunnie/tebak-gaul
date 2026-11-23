@@ -1,0 +1,422 @@
+[
+  {
+    "word": "Mager",
+    "meaning": "Malas gerak; tidak ingin berpindah dari tempat duduk.",
+    "choices": []
+  },
+  {
+    "word": "Gabut",
+    "meaning": "Gaji masih butuh, atau merasa tidak ada kerjaan dan bosan.",
+    "choices": []
+  },
+  {
+    "word": "Gercep",
+    "meaning": "Gerak cepat; segera merespons atau bertindak.",
+    "choices": []
+  },
+  {
+    "word": "Santuy",
+    "meaning": "Santai, ejaan play pada kata santai.",
+    "choices": []
+  },
+  {
+    "word": "Baper",
+    "meaning": "Bawa perasaan; mudah tersinggung atau terlalu merasakan.",
+    "choices": []
+  },
+  {
+    "word": "Salfok",
+    "meaning": "Salah fokus; perhatian tertuju ke hal yang tidak utama.",
+    "choices": []
+  },
+  {
+    "word": "Kepo",
+    "meaning": "Ingin tahu urusan orang lain (dari 'kayak entah pokoknya 'oping').",
+    "choices": []
+  },
+  {
+    "word": "Woles",
+    "meaning": "Selow dibalik; diminta tenang, jangan terburu-buru.",
+    "choices": []
+  },
+  {
+    "word": "Bucin",
+    "meaning": "Budak cinta; terlalu menurut pada rasa suka.",
+    "choices": []
+  },
+  {
+    "word": "Gabungin",
+    "meaning": "Menggabungkan; dalam percakapan sering berarti ikut masuk.",
+    "choices": []
+  },
+  {
+    "word": "Rekap",
+    "meaning": "Rangkuman, sering dipakai setelah rapat atau kejadian.",
+    "choices": []
+  },
+  {
+    "word": "Komen",
+    "meaning": "Memberi komentar, biasanya di unggahan.",
+    "choices": []
+  },
+  {
+    "word": "Unyu",
+    "meaning": "Lucu secara menggemaskan.",
+    "choices": []
+  },
+  {
+    "word": "Ngeselin",
+    "meaning": "Menggemaskan sekaligus menjengkelkan.",
+    "choices": []
+  },
+  {
+    "word": "Kuy",
+    "meaning": "Ayo, versi dibalik dari 'yuk'.",
+    "choices": []
+  },
+  {
+    "word": "Yuk",
+    "meaning": "Ajakan biasa: mari, ayo.",
+    "choices": []
+  },
+  {
+    "word": "Sini",
+    "meaning": "Selain tempat, sering jadi ajakan 'kemari / ikut'.",
+    "choices": []
+  },
+  {
+    "word": "Goks",
+    "meaning": "Gokil, sesuatu yang luar biasa atau kocak.",
+    "choices": []
+  },
+  {
+    "word": "Gokil",
+    "meaning": "Gila tapi dalam arti kagum atau lucu, bukan merendahkan.",
+    "choices": []
+  },
+  {
+    "word": "Receh",
+    "meaning": "Lelucon murahan yang tetap bikin ketawa.",
+    "choices": []
+  },
+  {
+    "word": "Cringe",
+    "meaning": "Merasa malu sendiri melihat tingkah laku yang janggal.",
+    "choices": []
+  },
+  {
+    "word": "Yahud",
+    "meaning": "Mantap, enak, memuaskan.",
+    "choices": []
+  },
+  {
+    "word": "Mantul",
+    "meaning": "Mantap betul.",
+    "choices": []
+  },
+  {
+    "word": "Ciamik",
+    "meaning": "Bagus, rapi, memikat (dari bahasa Jawa).",
+    "choices": []
+  },
+  {
+    "word": "Ngegas",
+    "meaning": "Tiba-tiba marah atau mempercepat emosi.",
+    "choices": []
+  },
+  {
+    "word": "Nge-slow",
+    "meaning": "Memperlambat, menenangkan tempo.",
+    "choices": []
+  },
+  {
+    "word": "Pansos",
+    "meaning": "Panjat sosial; mencari perhatian di ruang publik.",
+    "choices": []
+  },
+  {
+    "word": "Flexing",
+    "meaning": "Pamer harta atau pencapaian secara mencolok.",
+    "choices": []
+  },
+  {
+    "word": "FOMO",
+    "meaning": "Fear of missing out; takut ketinggalan tren atau acara.",
+    "choices": []
+  },
+  {
+    "word": "JOMO",
+    "meaning": "Joy of missing out; senang tidak ikut keramaian.",
+    "choices": []
+  },
+  {
+    "word": "Spill",
+    "meaning": "Membocorkan cerita, harga, atau 'teh'.",
+    "choices": []
+  },
+  {
+    "word": "Teh",
+    "meaning": "Gossip, 'tea' dalam bahasa gaul, bukan minuman.",
+    "choices": []
+  },
+  {
+    "word": "Bestie",
+    "meaning": "Sahabat dekat.",
+    "choices": []
+  },
+  {
+    "word": "Bestieku",
+    "meaning": "Sahabat dekat saya.",
+    "choices": []
+  },
+  {
+    "word": "Sis",
+    "meaning": "Panggilan akrab ke teman perempuan, kadang lintas gender di chat.",
+    "choices": []
+  },
+  {
+    "word": "Bro",
+    "meaning": "Panggilan akrab ke teman laki-laki.",
+    "choices": []
+  },
+  {
+    "word": "Mabar",
+    "meaning": "Main bareng, biasanya game daring.",
+    "choices": []
+  },
+  {
+    "word": "AFK",
+    "meaning": "Away from keyboard; sedang tidak di depan layar.",
+    "choices": []
+  },
+  {
+    "word": "GG",
+    "meaning": "Good game; pujian atau sindiran setelah pertandingan.",
+    "choices": []
+  },
+  {
+    "word": "Ngefly",
+    "meaning": "Merasa sangat senang atau 'melayang' (tanpa konotasi zat).",
+    "choices": []
+  },
+  {
+    "word": "Healing",
+    "meaning": "Liburan atau istirahat untuk memulihkan diri.",
+    "choices": []
+  },
+  {
+    "word": "Staycation",
+    "meaning": "Liburan tanpa jauh-jauh, biasanya di kota sendiri.",
+    "choices": []
+  },
+  {
+    "word": "Bukber",
+    "meaning": "Buka bersama, terutama di bulan puasa.",
+    "choices": []
+  },
+  {
+    "word": "Mageran",
+    "meaning": "Sedang dalam mode malas gerak.",
+    "choices": []
+  },
+  {
+    "word": "Nongki",
+    "meaning": "Nongkrong, kumpul santai.",
+    "choices": []
+  },
+  {
+    "word": "Nongkrong",
+    "meaning": "Duduk-duduk bersama, biasanya di luar rumah.",
+    "choices": []
+  },
+  {
+    "word": "Kepo banget",
+    "meaning": "Sangat ingin tahu.",
+    "choices": []
+  },
+  {
+    "word": "Gaje",
+    "meaning": "Tidak jelas; percakapan atau sikap yang membingungkan.",
+    "choices": []
+  },
+  {
+    "word": "B aja",
+    "meaning": "Biasa saja; tidak istimewa.",
+    "choices": []
+  },
+  {
+    "word": "BT",
+    "meaning": "Bete; suasana hati sedang tidak enak.",
+    "choices": []
+  },
+  {
+    "word": "Bete",
+    "meaning": "Bosan atau kesal ringan.",
+    "choices": []
+  },
+  {
+    "word": "Sambat",
+    "meaning": "Mengeluh, curhat soal nasib (dari bahasa Jawa).",
+    "choices": []
+  },
+  {
+    "word": "Curhat",
+    "meaning": "Curan hati; cerita perasaan.",
+    "choices": []
+  },
+  {
+    "word": "Gabisa",
+    "meaning": "Tidak bisa, ejaan chat.",
+    "choices": []
+  },
+  {
+    "word": "Gaboleh",
+    "meaning": "Tidak boleh, ejaan chat.",
+    "choices": []
+  },
+  {
+    "word": "Yaudah",
+    "meaning": "Ya sudah; menerima keadaan.",
+    "choices": []
+  },
+  {
+    "word": "YGY",
+    "meaning": "Ya guys ya; penegasan di akhir kalimat.",
+    "choices": []
+  },
+  {
+    "word": "CMIIW",
+    "meaning": "Correct me if I'm wrong; koreksi jika saya salah.",
+    "choices": []
+  },
+  {
+    "word": "IMHO",
+    "meaning": "In my humble opinion; menurut saya.",
+    "choices": []
+  },
+  {
+    "word": "Thanks",
+    "meaning": "Terima kasih, sering disingkat.",
+    "choices": []
+  },
+  {
+    "word": "Mimin",
+    "meaning": "Admin, pengelola akun atau grup.",
+    "choices": []
+  },
+  {
+    "word": "Wibu",
+    "meaning": "Penggemar budaya pop Jepang, kadang dipakai bercanda.",
+    "choices": []
+  },
+  {
+    "word": "K-popers",
+    "meaning": "Penggemar K-pop.",
+    "choices": []
+  },
+  {
+    "word": "Local pride",
+    "meaning": "Bangga pada produk atau karya dalam negeri.",
+    "choices": []
+  },
+  {
+    "word": "Starling",
+    "meaning": "Stasiun keliling; merujuk kopi/minuman dari gerobak.",
+    "choices": []
+  },
+  {
+    "word": "Cop",
+    "meaning": "Berhasil mendapatkan barang yang diburu, biasanya limited.",
+    "choices": []
+  },
+  {
+    "word": "Sold out",
+    "meaning": "Habis terjual.",
+    "choices": []
+  },
+  {
+    "word": "Restock",
+    "meaning": "Stok datang lagi.",
+    "choices": []
+  },
+  {
+    "word": "Worth it",
+    "meaning": "Seimbang antara harga dan hasil, layak.",
+    "choices": []
+  },
+  {
+    "word": "Overthinking",
+    "meaning": "Berpikir berlebihan sampai cemas.",
+    "choices": []
+  },
+  {
+    "word": "Red flag",
+    "meaning": "Tanda peringatan dalam relasi atau sikap.",
+    "choices": []
+  },
+  {
+    "word": "Green flag",
+    "meaning": "Tanda baik dalam relasi atau sikap.",
+    "choices": []
+  },
+  {
+    "word": "Ghosting",
+    "meaning": "Menghilang dari percakapan tanpa penjelasan.",
+    "choices": []
+  },
+  {
+    "word": "Cekrek",
+    "meaning": "Bunyi atau momen memotret.",
+    "choices": []
+  },
+  {
+    "word": "Potoin",
+    "meaning": "Foto-kan, minta diambilkan gambar.",
+    "choices": []
+  },
+  {
+    "word": "Story",
+    "meaning": "Unggahan singkat di media sosial yang hilang dalam waktu tertentu.",
+    "choices": []
+  },
+  {
+    "word": "Reels",
+    "meaning": "Video pendek vertikal di Instagram.",
+    "choices": []
+  },
+  {
+    "word": "For you",
+    "meaning": "Halaman rekomendasi otomatis di aplikasi video.",
+    "choices": []
+  },
+  {
+    "word": "Algo",
+    "meaning": "Algoritma yang menentukan unggahan yang muncul.",
+    "choices": []
+  },
+  {
+    "word": "Engage",
+    "meaning": "Interaksi: suka, komentar, bagikan.",
+    "choices": []
+  },
+  {
+    "word": "Close friend",
+    "meaning": "Daftar teman dekat di unggahan terbatas.",
+    "choices": []
+  },
+  {
+    "word": "Mute",
+    "meaning": "Menyembunyikan unggahan seseorang tanpa berhenti mengikuti.",
+    "choices": []
+  },
+  {
+    "word": "Unfollow",
+    "meaning": "Berhenti mengikuti akun.",
+    "choices": []
+  },
+  {
+    "word": "Blokir",
+    "meaning": "Menghalangi akun agar tidak bisa menghubungi.",
+    "choices": []
+  }
+]
